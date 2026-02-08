@@ -1,4 +1,4 @@
-# 📚 Bibliothèque des livres (C++)
+# 📚 C++ Library Catalog
 
 > Mini‑application console en C++ pour gérer une bibliothèque de livres : ajout, affichage, recherche et retrait.
 
